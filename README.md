@@ -1,3 +1,6 @@
+DEMO:
+https://main.d5p79dfkjbt1l.amplifyapp.com/
+
 To Run locally:
 
 1. install node package
