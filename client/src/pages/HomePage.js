@@ -96,14 +96,18 @@ class HomePage extends React.Component {
             this.setState({carousel1: res.results})
         })
 
-        getMovieRecommendForUser(uid).then(res => {
-            this.setState({movieForUser: res.results})
-        })
-
         getHome100(2).then(res => {
             this.setState({carousel2: res.results})
         })
-
+        
+        getMovieRecommendForUser(uid).then(res => {
+            this.setState({movieForUser: res.results})
+        })
+            
+        getMostVotedMovie().then(res => {
+            this.setState({mostVotedMovie: res.results[0]})
+        })
+        
         getHome100(3).then(res => {
             this.setState({carousel3: res.results})
         })
@@ -112,11 +116,6 @@ class HomePage extends React.Component {
         })
         getHome100(5).then(res => {
             this.setState({carousel5: res.results})
-        })
-
-
-        getMostVotedMovie().then(res => {
-            this.setState({mostVotedMovie: res.results[0]})
         })
 
         getActorBornToday(date).then(res => {
@@ -297,4 +296,3 @@ class HomePage extends React.Component {
 }
 
 export default HomePage
-
