@@ -24,6 +24,11 @@ User will be able to sign up and login for persionalized feature and save their 
 #Ranking
 ![image](https://user-images.githubusercontent.com/77389522/172348100-8556d3ab-021a-41ed-aead-77ebb0792116.png)
 
+#Actor Detail
+contains details of actor and movies that actor involved
+![image](https://user-images.githubusercontent.com/77389522/172349575-6a54cf29-6a97-42b8-ac4e-81d45f593acd.png)
+
+
 #Movie Detail
 
 Contains details of movie, casts, and also recommend similar movies
