@@ -35,18 +35,18 @@ User will be able to sign up and login for persionalized feature and save their 
 - Search with actor will return actor and movie that actor casted
 ![image](https://user-images.githubusercontent.com/77389522/172350484-d387d6aa-8fe5-4975-b29a-9e54776e2998.png)
 
--Search with keyword
+- Search with keyword
 ![image](https://user-images.githubusercontent.com/77389522/172350097-3f50302b-af67-4113-9c9f-38919d05d6c7.png)
 
 
 ## Actor Detail
--contains details of actor and movies that actor involved
+- contains details of actor and movies that actor involved
 ![image](https://user-images.githubusercontent.com/77389522/172349575-6a54cf29-6a97-42b8-ac4e-81d45f593acd.png)
 
 
 ## Movie Detail
 
--Contains details of movie, casts, and also recommend similar movies
+- Contains details of movie, casts, and also recommend similar movies
 
 ![image](https://user-images.githubusercontent.com/77389522/172348824-51a7c2b3-d949-4ea8-8635-d0d37ebcbdf1.png)
 ![image](https://user-images.githubusercontent.com/77389522/172348898-0c2ae819-a8d9-4808-9e64-24b20b4f4e3f.png)
