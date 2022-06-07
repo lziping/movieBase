@@ -9,3 +9,11 @@ To Setup and Run locally:
 | `npm install` | In /client, excute npm install                       |
 | `npm start`   | In /server, excute npm start to start backend        |
 | `npm start`   | In /client, excute npm start to start web application|
+
+
+#Home
+![image](https://user-images.githubusercontent.com/77389522/172347974-91a53ec4-7985-4ff2-b42a-d810d556ad1b.png)
+
+
+#Ranking
+![image](https://user-images.githubusercontent.com/77389522/172348100-8556d3ab-021a-41ed-aead-77ebb0792116.png)
