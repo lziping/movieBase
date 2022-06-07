@@ -24,3 +24,9 @@ User will be able to sign up and login for persionalized feature and save their 
 #Ranking
 ![image](https://user-images.githubusercontent.com/77389522/172348100-8556d3ab-021a-41ed-aead-77ebb0792116.png)
 
+#Movie Detail
+
+Contains details of movie, casts, and also recommend similar movies
+
+![image](https://user-images.githubusercontent.com/77389522/172348824-51a7c2b3-d949-4ea8-8635-d0d37ebcbdf1.png)
+![image](https://user-images.githubusercontent.com/77389522/172348898-0c2ae819-a8d9-4808-9e64-24b20b4f4e3f.png)
