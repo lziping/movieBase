@@ -20,9 +20,16 @@ User will be able to sign up and login for persionalized feature and save their 
 ###Home
 ![image](https://user-images.githubusercontent.com/77389522/172347974-91a53ec4-7985-4ff2-b42a-d810d556ad1b.png)
 
-
 ###Ranking
 ![image](https://user-images.githubusercontent.com/77389522/172348100-8556d3ab-021a-41ed-aead-77ebb0792116.png)
+
+###Searching
+#Search with actor will return actor and movie that actor casted
+![image](https://user-images.githubusercontent.com/77389522/172350484-d387d6aa-8fe5-4975-b29a-9e54776e2998.png)
+
+Search with keyword
+![image](https://user-images.githubusercontent.com/77389522/172350097-3f50302b-af67-4113-9c9f-38919d05d6c7.png)
+
 
 ###Actor Detail
 contains details of actor and movies that actor involved
@@ -35,3 +42,10 @@ Contains details of movie, casts, and also recommend similar movies
 
 ![image](https://user-images.githubusercontent.com/77389522/172348824-51a7c2b3-d949-4ea8-8635-d0d37ebcbdf1.png)
 ![image](https://user-images.githubusercontent.com/77389522/172348898-0c2ae819-a8d9-4808-9e64-24b20b4f4e3f.png)
+
+###Movies
+![image](https://user-images.githubusercontent.com/77389522/172349865-4112dc23-e08e-4b93-a8db-39862c8de49f.png)
+
+###Actors
+![image](https://user-images.githubusercontent.com/77389522/172349980-f08fa527-de6c-4c7f-97c8-87c38ea204dc.png)
+
