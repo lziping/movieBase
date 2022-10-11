@@ -1,5 +1,5 @@
 DEMO:
-https://main.d5p79dfkjbt1l.amplifyapp.com/
+https://main.d3ot96kob0yr1j.amplifyapp.com/
 
 To Setup and Run locally:
 
